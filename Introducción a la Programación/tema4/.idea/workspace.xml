@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea6f506d-fd82-441c-967f-e03613e4b3bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tema4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tema4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Introduccion_a_la_Programacion/tema3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduccion_a_la_Programacion/tema3/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ea6f506d-fd82-441c-967f-e03613e4b3bd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +29,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "F:/GTS/FACULTAD/CURSOS/OpenBootcamp/OpenBootcamp/Introducción a la Programación/tema3"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
